@@ -1,4 +1,3 @@
-# supports-sessions-mixit-2016
 Liste des supports des sessions / ateliers / talks de l'édition 2016 de MIX-IT
 
 Programme officiel MIX-IT 2016 : https://www.mix-it.fr/planning
