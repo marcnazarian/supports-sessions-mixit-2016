@@ -32,6 +32,9 @@ Angular 2: un framework pour les gouverner tous (Olivier COMBE) :
 http://slides.com/ocombe/mixit2016#/
 
 
+Keep calm and send a pull request (Vincent Elcrin & Colin Puy)
+http://velcrin.github.io/mixit16/
+
 ATELIERS :
 ==========
 
