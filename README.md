@@ -74,3 +74,6 @@ http://oyomy.fr/2016/04/latelier-kanban-values-a-mix-it-2016/
 
 Xanpan (Allan KELLY) : 
 http://www.allankelly.net/static/presentations/XanpanMixIT2016.pdf
+
+Guérir le burnout, c'est possible ! (Marie-Cécile Paccard & Goulven Champenois)
+https://speakerdeck.com/mcpaccard/guerir-le-burnout-cest-possible-mix-it-2016
