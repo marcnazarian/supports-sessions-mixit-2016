@@ -86,9 +86,6 @@ http://www.slideshare.net/manuelvacelet/recrutement-et-si-vous-laissiez-lquipe-f
 L'ergonomie web (Florie SÉCHAUD) :
 https://docs.google.com/presentation/d/1QInb5AXLsRNwXuInokzZJd7muFegKVlh8sjTjpIWLEs/pub?start=false&loop=false&delayms=10000#slide=id.p
 
-Les valeurs de Kanban (Olivier MY) :
-http://oyomy.fr/2016/04/latelier-kanban-values-a-mix-it-2016/
-
 Xanpan (Allan KELLY) : 
 http://www.allankelly.net/static/presentations/XanpanMixIT2016.pdf
 
