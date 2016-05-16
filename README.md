@@ -31,9 +31,18 @@ https://speakerdeck.com/mehlah/how-the-browser-renders-a-web-page-long-version
 Angular 2: un framework pour les gouverner tous (Olivier COMBE) :
 http://slides.com/ocombe/mixit2016#/
 
-
 Keep calm and send a pull request (Vincent Elcrin & Colin Puy)
 http://velcrin.github.io/mixit16/
+
+Secure your product, from scratch (Geoffroy COUPRIE)
+http://dev.unhandledexpression.com/slides/mixit-2016/security/
+
+Des parsers sûrs avec Rust et nom (Geoffroy COUPRIE)
+http://dev.unhandledexpression.com/slides/mixit-2016/nom
+
+RxJava (Tomasz NURKIEWICZ )
+https://www.youtube.com/watch?v=-MBPQ7NIL_Y
+
 
 ATELIERS :
 ==========
@@ -53,6 +62,14 @@ https://github.com/codestory/lab-docker
 Un code plus propre avec C#6 (Maxime SANGLAN-CHARLIER, Rui CARVALHO) :
 https://github.com/rhwy/RefactoringToCSharp6Workshop
 
+Sans motivation, pas d’action ! (Romain VIGNES  )
+http://romain.vignes.me/2016/04/sans-motivation-pas-daction/
+
+Kanban Values (olivier My)
+http://oyomy.fr/2016/04/latelier-kanban-values-a-mix-it-2016/
+
+Improv(ing) Agile Teams : interactions humaines et adoption du changement (Vincent DAVIET)
+https://babagile.wordpress.com/2016/04/25/improving-agile-teams-latelier/
 
 SESSIONS "MOINS TECHNIQUES" :
 =============================
@@ -77,3 +94,21 @@ http://www.allankelly.net/static/presentations/XanpanMixIT2016.pdf
 
 Guérir le burnout, c'est possible ! (Marie-Cécile Paccard & Goulven Champenois)
 https://speakerdeck.com/mcpaccard/guerir-le-burnout-cest-possible-mix-it-2016
+
+Rester agile en grandissant - Ce qui compte, c'est les valeurs (Emilie ESPOSITO)
+http://fr.slideshare.net/EmilieEsposito/mix-it-2016-retour-dexprience-agile-ce-qui-compte-cest-les-valeurs-emilie-esposito
+
+Software Craftsmanship : le chaînon manquant de l’agilité ?  (Charles BOUTTAZ, Nicolas RUFFEL)
+http://fr.slideshare.net/CharlesBouttaz/mix-it-2016-software-craftsmanship-le-chainon-manquant-de-lagilit
+
+Simplicité par défaut (Davit Larlet)
+https://larlet.fr/david/blog/2016/simplicite-defaut/
+
+RANDOM :
+=============================
+
+Vis ma vie de Développeuse (Claire VILLARD  Marion FELIX  Angélique HENRY )
+http://fr.slideshare.net/duchess-lyon/vis-ma-vie-de-dveloppeuse
+
+Data-Journalism @ RTSinfo - a technical approach Tips, tools, platforms & tech (Frederic VERGEZ)
+https://github.com/ikarius/mix-it-2016
