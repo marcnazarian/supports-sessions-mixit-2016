@@ -101,6 +101,9 @@ http://fr.slideshare.net/CharlesBouttaz/mix-it-2016-software-craftsmanship-le-ch
 Simplicité par défaut (Davit Larlet)
 https://larlet.fr/david/blog/2016/simplicite-defaut/
 
+J’anime une rétrospective productive (Maxime Bonnet)
+https://app.box.com/s/wr5sopzmvzypj5zpqbpbxsnn4wlu7e43
+
 RANDOM :
 =============================
 
