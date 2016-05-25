@@ -10,7 +10,8 @@ Pédagogie et agilité (Christian DEN HARTIGH) :
 https://speakerdeck.com/christiandh/pedagogie-agile-a-mixit16
 
 La confiance en soi, ça ne sert à rien (Laure JOUTEAU) : 
-http://www.lesaventurieres.com/2016/04/22/la-confiance-en-soi-ca-ne-sert-a-rien/
+- Blog : http://www.lesaventurieres.com/2016/04/22/la-confiance-en-soi-ca-ne-sert-a-rien/
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-laure-jouteau-confiance-en-soi
 
 Silver Bullet Syndrome (Hadi HARIRI) :
 https://www.youtube.com/watch?v=3wyd6J3yjcs
