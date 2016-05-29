@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=3wyd6J3yjcs
 De CDO au CODE : l’éducation numérique, la seule véritable transformation digitale ? (Youmna OVAZZA) :
 http://www.butter-cake.com/2016/04/25/leducation-numerique-seule-veritable-transformation-digitale/
 
+AI and the Future (Tim Urban)
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-tim-urban-ai
+
 
 SESSIONS TECHNIQUES :
 =====================
