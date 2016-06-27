@@ -101,6 +101,7 @@ https://speakerdeck.com/mcpaccard/guerir-le-burnout-cest-possible-mix-it-2016
 
 Rester agile en grandissant - Ce qui compte, c'est les valeurs (Emilie ESPOSITO)
 http://fr.slideshare.net/EmilieEsposito/mix-it-2016-retour-dexprience-agile-ce-qui-compte-cest-les-valeurs-emilie-esposito
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-emilie-esposito-rester-agile-en-grandissant
 
 Software Craftsmanship : le chaînon manquant de l’agilité ?  (Charles BOUTTAZ, Nicolas RUFFEL)
 http://fr.slideshare.net/CharlesBouttaz/mix-it-2016-software-craftsmanship-le-chainon-manquant-de-lagilit
