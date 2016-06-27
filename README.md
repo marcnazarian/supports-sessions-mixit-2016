@@ -16,17 +16,21 @@ La confiance en soi, ça ne sert à rien (Laure JOUTEAU) :
 Silver Bullet Syndrome (Hadi HARIRI) :
 https://www.youtube.com/watch?v=3wyd6J3yjcs
 
-Du produit au business model, en passant par le pivot (Alexis Jamet) :
-- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-alexis-jamet-du-produit-au-business-model
+AI and the Future (Tim Urban) :
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-tim-urban-ai
+
+Recette pour parvenir à donner une conférence sur les embryons de manchot à Mix-IT (Marie MANCEAU) :
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-marie-manceau-embryons-manchot
 
 The Impact of Code on Society (Joel Spolsky) :
 - Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-joel-spolsky-impact-of-code-on-society
 
+Du produit au business model, en passant par le pivot (Alexis Jamet) :
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-alexis-jamet-du-produit-au-business-model
+
 De CDO au CODE : l’éducation numérique, la seule véritable transformation digitale ? (Youmna OVAZZA) :
 http://www.butter-cake.com/2016/04/25/leducation-numerique-seule-veritable-transformation-digitale/
 
-AI and the Future (Tim Urban) :
-- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-tim-urban-ai
 
 
 SESSIONS TECHNIQUES :
