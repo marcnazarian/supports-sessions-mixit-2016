@@ -108,6 +108,9 @@ https://larlet.fr/david/blog/2016/simplicite-defaut/
 J’anime une rétrospective productive (Maxime Bonnet)
 https://app.box.com/s/wr5sopzmvzypj5zpqbpbxsnn4wlu7e43
 
+Kanban : un vivier d'options (Alfred Almendra)
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-alfred-almendra-kanban-un-vivier-d-options
+
 RANDOM :
 =============================
 
