@@ -47,6 +47,8 @@ http://dev.unhandledexpression.com/slides/mixit-2016/nom
 RxJava (Tomasz NURKIEWICZ )
 https://www.youtube.com/watch?v=-MBPQ7NIL_Y
 
+Git from the inside out (Mary Rose Cook)
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-mary-rose-cook-git-from-the-inside-out
 
 ATELIERS :
 ==========
