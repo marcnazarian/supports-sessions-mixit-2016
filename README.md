@@ -19,6 +19,9 @@ https://www.youtube.com/watch?v=3wyd6J3yjcs
 Du produit au business model, en passant par le pivot (Alexis Jamet) :
 - Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-alexis-jamet-du-produit-au-business-model
 
+The Impact of Code on Society (Joel Spolsky) :
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-joel-spolsky-impact-of-code-on-society
+
 De CDO au CODE : l’éducation numérique, la seule véritable transformation digitale ? (Youmna OVAZZA) :
 http://www.butter-cake.com/2016/04/25/leducation-numerique-seule-veritable-transformation-digitale/
 
