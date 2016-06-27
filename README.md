@@ -82,6 +82,7 @@ SESSIONS "MOINS TECHNIQUES" :
 
 Le Lean Startup depuis les tranchées (Nicolas DEVERGE) : 
 http://www.slideshare.net/ndeverge/le-lean-startup-depuis-les-tranches
+- Vidéo InfoQ #mixit16 : https://www.infoq.com/fr/presentations/mix-it-nicolas-deverge-lean-startup-depuis-les-tranchees
 
 Comment obtenir des standup qui marchent (Florence CHABANOIS) : 
 http://fr.slideshare.net/foucha/comment-obtenir-des-standup-qui-marchent
